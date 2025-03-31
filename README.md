@@ -1,7 +1,5 @@
 # React + Vite
 
-This project utilizes a set of powerful libraries to facilitate development and enhance performance. Below is a list of the libraries used and their functionalities:
-
 React (^19.0.0): A JavaScript library for building interactive user interfaces.
 
 React Redux (^9.2.0): Integrates Redux for state management.
